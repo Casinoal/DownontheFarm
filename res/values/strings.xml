@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Down On The Farm</string>
+    <string name="action_settings">Settings</string>
+    <string name="Greeting">Click on an animal to hear its noise!</string>
+    <string name="cow">cow</string>
+    <string name="horse">horse</string>
+    <string name="pig">pig</string>
+    <string name="chick">chick</string>
+    <string name="title_activity_main_game">MainGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_jungle">Jungle</string>
+    <string name="title_activity_plains">Plains</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_farm2">Farm2</string>
+
+</resources>
